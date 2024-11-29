@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alimu0415  
+- 👋 Hi, I’m Álvaro Lima Muñoz  
 - 👀 I’m interested in programming, desktop and mobile app development, and exploring new technologies.  
 - 🌱 I’m currently learning Java, Linux, Android development, and database management (SQL) as part of my DAM studies.  
 - 💞️ I’m looking to collaborate on projects where I can learn while contributing and improve my coding skills, development teams that value sharing knowledge and working together, challenges that push me to explore and help me grow as a developer
